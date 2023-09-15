@@ -14,5 +14,7 @@ public class GreetingMachine {
         GreetingMachine gm = new GreetingMachine();
         gm.greet();
         gm.greet("Good morning Universe");
+
+        System.out.println("Removing origin branch now");
     }
 }
