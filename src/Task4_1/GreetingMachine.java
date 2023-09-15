@@ -15,6 +15,6 @@ public class GreetingMachine {
         gm.greet();
         gm.greet("Good morning Universe");
 
-        System.out.println("Removing origin b");
+        System.out.println("Removing all whitespaces ");
     }
 }
