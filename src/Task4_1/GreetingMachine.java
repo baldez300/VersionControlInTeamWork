@@ -15,6 +15,6 @@ public class GreetingMachine {
         gm.greet();
         gm.greet("Good morning Universe");
 
-        System.out.println("Checking which branch this is on.");
+        System.out.println("Checking baldez300 commits");
     }
 }
